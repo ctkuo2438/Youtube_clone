@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# dotenv / local secrets
+.env*
+*.env
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.pid.lock
+dist/
+build/
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# OS-level trash
+Thumbs.db

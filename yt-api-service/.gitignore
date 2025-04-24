@@ -1,0 +1,34 @@
+# Firebase Functions (TypeScript)
+lib/
+node_modules/
+.firebase/
+firebase-debug.log*
+firebase-debug.*.log*
+
+# IDE / System
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env*
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Cache / temp
+.eslintcache
+.pids
+*.pid
+*.pid.lock
+.yarn-integrity
+
+# Output of 'npm pack'
+*.tgz
