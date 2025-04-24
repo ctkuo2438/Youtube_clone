@@ -37,7 +37,7 @@
 
 ### Backend
 
-- Deploy Python service to Cloud Run (internal)
+- Deploy to Cloud Run (internal)
 - Deploy Firebase Functions
 
 ---
