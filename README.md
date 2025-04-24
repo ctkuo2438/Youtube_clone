@@ -4,7 +4,7 @@
 ## Stack Overview
 - **Frontend**: Next.js, Firebase Web SDK
 - **Backend**: Firebase Functions, Firestore, Google Cloud Storage, Cloud Run
-- **Video Processing**: Python + Flask, deployed to Cloud Run
+- **Video Processing**: Node.js + Express.js, deployed to Cloud Run
 - **Deployment**: Docker + GCP Artifact Registry + Cloud Run
 
 ---
