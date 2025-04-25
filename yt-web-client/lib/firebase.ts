@@ -13,8 +13,6 @@ const firebaseConfig = {
   apiKey: "",
   authDomain: "",
   projectId: "",
-//   storageBucket: "yt-clone-80afb.firebasestorage.app",
-//   messagingSenderId: "324546327320",
   appId: "",
 };
 
