@@ -48,9 +48,3 @@
 - Storage buckets (raw & processed)
 - Deploy functions
 
----
-
-## Citation
-This project is adapted from the  
-👉 [NeetCode Full-Stack Development Course](https://neetcode.io/courses/full-stack-dev/21)
-
